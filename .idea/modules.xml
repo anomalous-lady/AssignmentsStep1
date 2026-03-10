@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/292.iml" filepath="$PROJECT_DIR$/.idea/292.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Hash/Hash.iml" filepath="$PROJECT_DIR$/Hash/Hash.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Hash/UsernameChecker/UsernameChecker.iml" filepath="$PROJECT_DIR$/Hash/UsernameChecker/UsernameChecker.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
